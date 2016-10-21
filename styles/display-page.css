@@ -1,0 +1,17 @@
+main { padding: 30px; font-size: 0;}
+
+.rectangle { width: 800px; margin: auto; text-align: center; }
+
+.top { height: 200px; width: 50%; display: inline-block; border: 1px solid black;}
+
+.top_left { background-color: green;}
+
+.top_right { background-color: blue;}
+
+.btm { height: 300px; width: 33.33%; display: inline-block; border: 1px solid black;}
+
+.btm_left { background-color: gray; }
+
+.btm_middle { background-color: black; }
+
+.btm_right { background-color: orange; }
